@@ -1,3 +1,3 @@
 TrafficLightJS
 ==============
-BeagleBone #BLVCK traffic light.
+Светофор на JavaScript для BeagleBone #BLVCK.
